@@ -1,0 +1,15 @@
+variable "vpc-link-name" {}
+variable "subnet1" {}
+variable "subnet2" {}
+variable "security-id" {}
+variable "api-name" {}
+variable "protocol" {}
+variable "integration-type" {}
+variable "map-service-arn" {}
+variable "method" {}
+variable "connection-type" {}
+variable "route-key" {}
+variable "pool-id" {}
+variable "client-id" {}
+variable "authorizer-name" {}
+variable "authorizer-type" {}

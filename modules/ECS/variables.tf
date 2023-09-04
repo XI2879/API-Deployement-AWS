@@ -1,0 +1,14 @@
+variable "cluster_name" {}
+variable "task_name" {}
+variable "execution_role_name" {}
+variable "task_role_name" {}
+variable "container_name" {}
+variable "image" {}
+variable "launch_type" {}
+variable "container_port" {}
+variable "vpc-id" {}
+variable "subnet1" {}
+variable "subnet2" {}
+variable "security-group" {}
+variable "service_name" {}
+variable "registry-arn" {}

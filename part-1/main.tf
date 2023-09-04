@@ -1,11 +1,5 @@
 #--------modules inputs and usage for VPC, ECR and CLOUDMAP -----------
 #--------Provider-Configuration------------
-# provider "aws" {
-#   region     = var.region
-#   access_key = "AKIAQTWECCHN3HVBHPFI"
-#   secret_key = "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"
-# }
-
 
 
 module "prod-vpc" {
